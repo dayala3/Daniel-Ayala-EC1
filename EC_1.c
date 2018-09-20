@@ -4,11 +4,11 @@
 
 int main(){
     
-    int x;
+    float x;
     
-    scanf ("%d", x);
+    scanf ("%f", x);
     
-    printf ("%d", x);
+    printf ("%f", x);
     
     return 0;
 }
